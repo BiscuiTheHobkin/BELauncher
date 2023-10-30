@@ -1,0 +1,23 @@
+C:\Users\Biscuit\source\repos\BE Launcher\BE Launcher\bin\Release\net6.0-windows\BE Launcher.exe
+C:\Users\Biscuit\source\repos\BE Launcher\BE Launcher\bin\Release\net6.0-windows\BE Launcher.deps.json
+C:\Users\Biscuit\source\repos\BE Launcher\BE Launcher\bin\Release\net6.0-windows\BE Launcher.runtimeconfig.json
+C:\Users\Biscuit\source\repos\BE Launcher\BE Launcher\bin\Release\net6.0-windows\BE Launcher.dll
+C:\Users\Biscuit\source\repos\BE Launcher\BE Launcher\bin\Release\net6.0-windows\BE Launcher.pdb
+C:\Users\Biscuit\source\repos\BE Launcher\BE Launcher\obj\Release\net6.0-windows\BE Launcher.csproj.AssemblyReference.cache
+C:\Users\Biscuit\source\repos\BE Launcher\BE Launcher\obj\Release\net6.0-windows\BE_Launcher.BLoader.resources
+C:\Users\Biscuit\source\repos\BE Launcher\BE Launcher\obj\Release\net6.0-windows\BE_Launcher.Properties.Resources.resources
+C:\Users\Biscuit\source\repos\BE Launcher\BE Launcher\obj\Release\net6.0-windows\BE Launcher.csproj.GenerateResource.cache
+C:\Users\Biscuit\source\repos\BE Launcher\BE Launcher\obj\Release\net6.0-windows\BE Launcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Biscuit\source\repos\BE Launcher\BE Launcher\obj\Release\net6.0-windows\BE Launcher.AssemblyInfoInputs.cache
+C:\Users\Biscuit\source\repos\BE Launcher\BE Launcher\obj\Release\net6.0-windows\BE Launcher.AssemblyInfo.cs
+C:\Users\Biscuit\source\repos\BE Launcher\BE Launcher\obj\Release\net6.0-windows\BE Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Biscuit\source\repos\BE Launcher\BE Launcher\obj\Release\net6.0-windows\BE Launcher.dll
+C:\Users\Biscuit\source\repos\BE Launcher\BE Launcher\obj\Release\net6.0-windows\refint\BE Launcher.dll
+C:\Users\Biscuit\source\repos\BE Launcher\BE Launcher\obj\Release\net6.0-windows\BE Launcher.pdb
+C:\Users\Biscuit\source\repos\BE Launcher\BE Launcher\obj\Release\net6.0-windows\BE Launcher.genruntimeconfig.cache
+C:\Users\Biscuit\source\repos\BE Launcher\BE Launcher\obj\Release\net6.0-windows\ref\BE Launcher.dll
+C:\Users\Biscuit\source\repos\BE Launcher\BE Launcher\obj\Release\net6.0-windows\BE_Launcher.BeStore.resources
+C:\Users\Biscuit\source\repos\BE Launcher\BE Launcher\obj\Release\net6.0-windows\BE_Launcher.BLCInfo.resources
+C:\Users\Biscuit\source\repos\BE Launcher\BE Launcher\obj\Release\net6.0-windows\BE_Launcher.PluginDLfinished.resources
+C:\Users\Biscuit\source\repos\BE Launcher\BE Launcher\obj\Release\net6.0-windows\BE_Launcher.FsInfo.resources
+C:\Users\Biscuit\source\repos\BE Launcher\BE Launcher\obj\Release\net6.0-windows\BE_Launcher.SPHWIDINFO.resources
